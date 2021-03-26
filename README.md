@@ -1,4 +1,4 @@
-# Awesome Front-end Resource Selected - 优质精选前端资源
+# 优质精选前端资源
 
 
 ## 技术社区
