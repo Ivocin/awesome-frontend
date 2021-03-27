@@ -109,7 +109,18 @@
 ### 综合
 *  [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) 
 *  [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) 
+*  [Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
+
+## 面试
+* [CS-Notes](https://github.com/CyC2018/CS-Notes)
+* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+* [javascript-questions](https://github.com/lydiahallie/javascript-questions)
+* [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview)
+* [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+* [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 * [haizlin/fe-interview: 前端面试每日 3+1](https://github.com/haizlin/fe-interview)
+* [30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews)
+* [fucking-frontend](https://github.com/KieSun/fucking-frontend)
 ### JavaScript
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 * [javascript-questions](https://github.com/lydiahallie/javascript-questions) 
