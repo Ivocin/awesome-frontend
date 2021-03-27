@@ -1,4 +1,4 @@
-# # 优质精选前端资源
+# 优质精选前端资源
 
 ## 技术社区
 
@@ -61,26 +61,6 @@
 * [Alexis King’s Blog](https://lexi-lambda.github.io/)
 * [Max Stoiber (@mxstbr) - JavaScript Engineer](https://mxstbr.com/)
 * [Blog - JakeArchibald.com](https://jakearchibald.com/)
-
-
-## 公众号
-* 前端之巅
-* 前端早读课
-* 奇舞精选
-* 前端外刊评论
-* 前端从进阶到入院
-* 前端三元同学
-* 印记中文
-* 前端真好玩
-* 前端工匠
-* 老黄的前端私房菜
-* 网易云音乐大前端团队
-* 淘系前端团队
-* 腾讯IMWeb前端团队
-* 字节前端 ByteFE
-* 鱼头的 Web 海洋
-* Vue中文社区
-* 技术漫谈
 
 
 ## 会议
@@ -153,6 +133,28 @@
 * [storybookjs/storybook: The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!](https://github.com/storybookjs/storybook)
 
 持续更新，欢迎 pr。
+
+
+## 公众号
+* 前端之巅
+* 前端早读课
+* 奇舞精选
+* 前端外刊评论
+* 前端从进阶到入院
+* 前端三元同学
+* 印记中文
+* 前端真好玩
+* 前端工匠
+* 老黄的前端私房菜
+* 网易云音乐大前端团队
+* 淘系前端团队
+* 腾讯IMWeb前端团队
+* 字节前端 ByteFE
+* 鱼头的 Web 海洋
+* Vue中文社区
+* 技术漫谈
+
+
 
 ## 精选文章
 持续更新，欢迎 pr。
