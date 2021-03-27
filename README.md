@@ -43,6 +43,7 @@
 * ⭐ [360 - 奇舞团博客](https://75.team/)
 * ⭐ [京东 - 凹凸实验室](https://jelly.jd.com/teamhome/5b0ff3a0629834a34b663617)
 * ⭐ [有赞技术团队](https://tech.youzan.com/)
+* ⭐ [掘金翻译计划](https://juejin.cn/team/6930489296285597696/posts)
 * [百度 FEX - 上次更新 2020 年 6 月](http://fex.baidu.com/)
 
 ## 个人博客
