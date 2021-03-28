@@ -1,20 +1,20 @@
-# 优质前端资源精选
+# 2021 优质前端资源精选
 
 ## 技术社区
 
 ### 国内
 
-* ⭐ [GitHub: Where the world builds software](https://github.com/)
 * ⭐ [掘金 - 代码不止，掘金不停](https://juejin.cn/)
 * ⭐ [InfoQ - 促进软件开发及相关领域知识与创新的传播](https://www.infoq.cn/)
 * ⭐ [语雀 - 专业的云端知识库](https://www.yuque.com/)
 * ⭐ [V2EX - 一个关于分享和探索的地方](https://www.v2ex.com/)
 * ⭐ [知乎 - 有问题，就会有答案](https://www.zhihu.com/)
-* ⭐ [哔哩哔哩  - 宝藏网站](https://www.bilibili.com/)
+* ⭐⭐ [哔哩哔哩  - 宝藏网站](https://www.bilibili.com/)
 * [SegmentFault - 思否](https://segmentfault.com/)
 
 ### 国外
 
+* ⭐ [GitHub: Where the world builds software](https://github.com/)
 * ⭐ [Medium – Where good ideas find you.](https://medium.com/)
 * ⭐ [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
 * ⭐ [CSS-Tricks - 从专注 CSS 到前端综合社区](https://css-tricks.com/)
@@ -68,30 +68,30 @@
 
 ### 国内
 * ⭐ [GMTC 全球大前端技术大会](https://www.infoq.cn/topic/GMTC)
-* ⭐ [ArchSummit 全球架构师峰会](https://archsummit.infoq.cn)
+* ⭐⭐ [ArchSummit 全球架构师峰会](https://archsummit.infoq.cn)
+* ⭐⭐⭐ [前端早早聊 - 2020 年开始举办，干货极多](https://juejin.cn/user/712139234347565)
 * [QCon 全球软件开发者大会](https://qcon.infoq.cn/)
-* ⭐ [前端早早聊 - 2020 年开始举办，干货极多](https://juejin.cn/user/712139234347565)
 * [云栖大会 - 阿里云](https://yunqi.aliyun.com/)
 * [支付宝体验科技大会](https://seeconf.antfin.com/)
 * [D2 前端技术论坛](https://www.alibabaf2e.com/)
 * [腾讯TWeb前端技术大会](https://tweb.tencent.com/#/)
 
 ### 国外
-* ⭐ [React Conf](https://reactjs.org/community/conferences.html)
-* [Vue Conf](https://us.vuejs.org/)
-* [JSConf](https://jsconf.com/)
+* ⭐⭐ [React Conf](https://reactjs.org/community/conferences.html)
+* ⭐ [Vue Conf](https://us.vuejs.org/)
+* JSConf
 
 ## 教学网站
 
 ### 国内
-* ⭐ [极客时间-轻松学习，高效学习-极客邦](https://time.geekbang.org/)
+* ⭐⭐ [极客时间-轻松学习，高效学习-极客邦](https://time.geekbang.org/)
 * ⭐ [拉勾教育 - 互联网人实战大学](https://edu.lagou.com/)
-* [慕课网-程序员的梦工厂](https://www.imooc.com/)
 * ⭐⭐ [哔哩哔哩  - 各种免费教程](https://www.bilibili.com/)
+* [慕课网-程序员的梦工厂](https://www.imooc.com/)
 
 ### 国外
 * ⭐ [Frontend Masters — Learn JavaScript, React, Vue & Angular （收费）](https://frontendmasters.com/)
-* [Lynda: Online Courses, Classes, Training, Tutorials（收费）](https://www.lynda.com/)
+* ⭐ [Lynda: Online Courses, Classes, Training, Tutorials（收费）](https://www.lynda.com/)
 * [FreeCodeCamp - Learn to Code — For Free](https://www.freecodecamp.org/)
 
 
@@ -148,28 +148,26 @@
 
 
 ## 公众号
-* 前端之巅
+* ⭐ 前端之巅
 * ⭐ 前端早读课
 * ⭐ 奇舞精选
 * ⭐ 前端外刊评论
 * ⭐ 前端从进阶到入院
-* 前端三元同学
-* 印记中文
-* 前端真好玩
-* 前端工匠
-* 老黄的前端私房菜
-* 网易云音乐大前端团队
-* 淘系前端团队
-* 腾讯IMWeb前端团队
-* 字节前端 ByteFE
-* 鱼头的 Web 海洋
-* Vue中文社区
-* 技术漫谈
+* ⭐ 前端三元同学
+* ⭐ 印记中文
+* ⭐ 前端真好玩
+* ⭐ 前端工匠
+* ⭐ 老黄的前端私房菜
+* ⭐ 网易云音乐大前端团队
+* ⭐ 淘系前端团队
+* ⭐ 腾讯IMWeb前端团队
+* ⭐ 字节前端 ByteFE
+* ⭐ 鱼头的 Web 海洋
+* ⭐ Vue中文社区
+* ⭐ 技术漫谈
 
 
 
 ## 精选文章
 持续更新，欢迎 pr。
-
-
 
