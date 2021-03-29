@@ -1,6 +1,13 @@
 # 2021 优质前端资源精选
 
-## 技术社区
+
+在知识爆炸时代如何识别优质信息尤为重要，**不要再花时间收集前端资料了**，我们来共建一个优质前端资源精选合辑。
+
+> 注：排名会分先后，⭐ 只是个人偏好，利益不相关。
+
+
+
+## 一、技术社区
 
 ### 国内
 
@@ -36,7 +43,7 @@
 * [Pony Foo — Web platform, JavaScript, modularity, front-end architecture, performance, and more!](https://ponyfoo.com/articles)
 * [Reddit - JavaScript 频道](https://www.reddit.com/r/javascript)
 
-## 团队博客
+## 二、团队博客
 * ⭐ [美团技术团队](https://tech.meituan.com/)
 * ⭐ [淘系前端团队](https://fed.taobao.org/)
 * ⭐ [腾讯 AlloyTeam](http://www.alloyteam.com/) 
@@ -46,7 +53,7 @@
 * ⭐ [掘金翻译计划](https://juejin.cn/team/6930489296285597696/posts)
 * [百度 FEX - 上次更新 2020 年 6 月](http://fex.baidu.com/)
 
-## 个人博客
+## 三、个人博客
 
 国内
 * ⭐ [阮一峰的个人网站](http://www.ruanyifeng.com/home.html)
@@ -64,7 +71,7 @@
 * [Blog - JakeArchibald.com](https://jakearchibald.com/)
 
 
-## 会议
+## 四、会议
 
 ### 国内
 * ⭐ [GMTC 全球大前端技术大会](https://www.infoq.cn/topic/GMTC)
@@ -81,7 +88,7 @@
 * ⭐ [Vue Conf](https://us.vuejs.org/)
 * JSConf
 
-## 教学网站
+## 五、教学网站
 
 ### 国内
 * ⭐⭐ [极客时间-轻松学习，高效学习-极客邦](https://time.geekbang.org/)
@@ -95,7 +102,7 @@
 * [FreeCodeCamp - Learn to Code — For Free](https://www.freecodecamp.org/)
 
 
-## 教程
+## 六、教程
 * ⭐⭐ [现代 JavaScript 教程](https://zh.javascript.info/)
 * [MDN Web Docs](https://developer.mozilla.org/zh-CN/)
 * [w3cschool - 编程狮，随时随地学编程](https://www.w3cschool.cn/)
@@ -103,7 +110,7 @@
 * **技术社区**
 
 
-## GitHub 优质仓库精选
+## 七、GitHub 优质仓库精选
 [Trending  repositories on GitHub today · GitHub](https://github.com/trending)
 
 ### 综合
@@ -111,7 +118,7 @@
 *  [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) 
 *  [Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
 
-## 面试
+### 面试
 * [CS-Notes](https://github.com/CyC2018/CS-Notes)
 * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 * [javascript-questions](https://github.com/lydiahallie/javascript-questions)
@@ -147,9 +154,9 @@
 持续更新，欢迎 pr。
 
 
-## 公众号
+## 八、公众号
 * ⭐ 前端之巅
-* ⭐ 前端早读课
+* ⭐⭐ 前端早读课
 * ⭐ 奇舞精选
 * ⭐ 前端外刊评论
 * ⭐ 前端从进阶到入院
@@ -168,6 +175,5 @@
 
 
 
-## 精选文章
+## 九、精选文章
 持续更新，欢迎 pr。
-
