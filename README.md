@@ -99,8 +99,8 @@
 * ⭐⭐ [现代 JavaScript 教程](https://zh.javascript.info/)
 * [MDN Web Docs](https://developer.mozilla.org/zh-CN/)
 * [w3cschool - 编程狮，随时随地学编程](https://www.w3cschool.cn/)
-* ⭐⭐⭐*官方文档*
-* *技术社区*
+* ⭐⭐⭐**官方文档**
+* **技术社区**
 
 
 ## GitHub 优质仓库精选
